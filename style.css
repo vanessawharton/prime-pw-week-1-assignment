@@ -1,8 +1,8 @@
 .header{
     text-align: center;
-    text-transform: lowercase;
     border: 1px solid #dddddd;
-    background-color: #b39db8
+    background-color: white;
+    color: purple;
     font-family: Verdana, Georgia, Helvetica;
 }
 
@@ -22,7 +22,7 @@ body{
 .header-image{
     text-align: center;
     padding: 10px 10px 10px 10px;
-    border: 1px solid #dddddd;
+    border: 5px solid #dddddd;
 }
 
 .funfact-list{
@@ -34,7 +34,7 @@ footer{
     font-family: Verdana, Georgia, Helvetica;
     font size: 8px;
     border: 1px solid #dddddd;
-    background-color: white;
+    background-color: teal;
     position: fixed;
     left: 0;
     bottom: 0;
@@ -44,5 +44,5 @@ footer{
 
 p{
     font-style: italic;
-    color: blue;
+    color: white;
 }
