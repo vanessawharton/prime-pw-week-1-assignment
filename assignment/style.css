@@ -4,7 +4,6 @@
     background-color: white;
     color: purple;
     font-family: Verdana, Georgia, Helvetica;
-    position: center;
 }
 
 body{
@@ -12,14 +11,13 @@ body{
     background-image: url("https://www.transparenttextures.com/patterns/concrete-wall-2.png");
     color: #171717;
     font-family: Verdana, Georgia, Helvetica;
-    position: center;
+    text-align: center
 }    
 
 .header-element{
     text-align: center;
     padding: 10px 10px 10px 10px;
     background-color: rgba(0,0,0,0.1)
-    position: center;
 }
 
 .header-image{
